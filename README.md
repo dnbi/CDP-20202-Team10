@@ -16,4 +16,6 @@
 
 ## 시스템 구성도
 ![구성도1](https://user-images.githubusercontent.com/39369255/173742424-4ada8091-e6be-493e-b452-3b7a6ccab9f6.png)
+<img src = "https://user-images.githubusercontent.com/39369255/173742424-4ada8091-e6be-493e-b452-3b7a6ccab9f6.png" width = "700" height = "500">
 ![구성도2](https://user-images.githubusercontent.com/39369255/173742451-488d8720-0425-4bf9-8636-df39e20b33ea.png)
+<img src = "https://user-images.githubusercontent.com/39369255/173742451-488d8720-0425-4bf9-8636-df39e20b33ea.png" width = "700" height = "500">
