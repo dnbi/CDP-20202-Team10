@@ -15,3 +15,5 @@
 * 조작 방법 영상을 제공하여 조작 어려움 해소
 
 ## 시스템 구성도
+![구성도1](https://user-images.githubusercontent.com/39369255/173742424-4ada8091-e6be-493e-b452-3b7a6ccab9f6.png)
+![구성도2](https://user-images.githubusercontent.com/39369255/173742451-488d8720-0425-4bf9-8636-df39e20b33ea.png)
