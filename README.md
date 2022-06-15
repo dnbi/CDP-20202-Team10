@@ -15,8 +15,7 @@
 * 조작 방법 영상을 제공하여 조작 어려움 해소
 
 ## 시스템 구성도
-![구성도1](https://user-images.githubusercontent.com/39369255/173742424-4ada8091-e6be-493e-b452-3b7a6ccab9f6.png)
-![구성도2](https://user-images.githubusercontent.com/39369255/173742451-488d8720-0425-4bf9-8636-df39e20b33ea.png)
+![구성도](https://user-images.githubusercontent.com/39369255/173757922-9bcf2836-bb74-4b32-bf6f-c1603ecc2c1d.png)
 
 ## 프로젝트 결과 사진
-![주문 모듈](https://user-images.githubusercontent.com/39369255/173757426-d44d7a3d-ce3c-45eb-b618-ffc935b8b3cb.png)
+![주문모듈](https://user-images.githubusercontent.com/39369255/173757929-62105d1a-4ed7-4d3f-abb3-021c24e85593.png)
